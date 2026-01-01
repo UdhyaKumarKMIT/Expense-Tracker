@@ -1,4 +1,3 @@
-
 # Expense Tracker
 
 A **Expense Tracker mobile application** built using **React Native (Expo)** that helps users track monthly expenses category-wise with intuitive charts and history insights.  
@@ -77,8 +76,6 @@ No internet connection or external database is required.
 
 ---
 
----
-
 ## 👨‍💻 Author
 
 Developed as a **personal productivity & learning project** using modern mobile development practices with React Native.
@@ -87,6 +84,6 @@ Developed as a **personal productivity & learning project** using modern mobile 
 
 ## 📄 License
 
-This project is open-source and available under the **MIT License**.
+This project is open-source project under Udhya Kumar K projects
 
 ````
